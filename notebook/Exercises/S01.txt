@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-01-31T11:03:50+01:00
+
+====== S01 ======
+
+====== 3.7 ======
+
+===== 3.7.1 =====
+{{./pasted_image.png}}
+{{./pasted_image003.png}}
+{{./pasted_image004.png}}
+A small p-value means that there is an association between predictor and response. Meaning that for TV and radio, there is an clear association between marketing on the platforms and increased sales. This association is not clear from the newspaper's p-value. 
+
+In Table 3.4, the null hypothesis for "TV" is that in the presence of radio
+ads and newspaper ads, TV ads have no effect on sales. Similarly, the null
+hypothesis for "radio" is that in the presence of TV and newspaper ads, radio
+ads have no effect on sales. (And there is a similar null hypothesis for
+"newspaper".) The low p-values of TV and radio suggest that the null hypotheses
+are false for TV and radio. The high p-value of newspaper suggests that the null
+hypothesis is true for newspaper.
+
+===== 3.7.2 =====
+{{./pasted_image002.png}}
+{{./pasted_image006.png}}
+KNN classifier and KNN regression methods are closely related in formula.
+However, the final result of KNN classifier is the classification output for Y
+(qualitative), where as the output for a KNN regression predicts the
+quantitative value for f(X).
+
+===== 3.7.8 =====
+{{./pasted_image007.png}}
+===== 3.7.9 =====
+{{./pasted_image008.png}}
+{{./pasted_image009.png}}
+===== 3.7.10 =====
+{{./pasted_image010.png}}
