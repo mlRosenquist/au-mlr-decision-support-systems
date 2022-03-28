@@ -1,10 +1,13 @@
 {
 	"folders": [
 		{
+			"path": "."
+		},
+		{
 			"path": "../Decision-Support-Systems"
 		},
 		{
-			"path": "litterature"
+			"path": "../ISLR-python"
 		}
 	],
 	"settings": {}
